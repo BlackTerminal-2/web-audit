@@ -4,9 +4,7 @@ A simple website security configuration audit tool.
 
 ## Install
 
-## Run
-
-Termux
+                    Termux🔥💯
 
 ```
 pkg update
