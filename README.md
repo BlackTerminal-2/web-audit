@@ -7,6 +7,7 @@ A simple website security configuration audit tool.
                  Termux🔥💯
  
 
+```
 pkg update
 pkg install git python -y
 git clone https://github.com/BlackTerminal-2/web-audit.git
